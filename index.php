@@ -6,7 +6,7 @@
 
 	<BODY>
 		<FORM NAME="FORM1" METHOD="POST" ACTION="work.php" >
-			1
+			1 2 3
 		</FORM>
 	</BODY>
 </HTML>
